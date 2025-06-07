@@ -3,7 +3,7 @@
 # Hello World!, I'm Lucky, Nice to Meet You! 👋🏼:
 
 👋 Hi, I’m a **Computer Science student**  
-💻 Skilled in **web development** & building **web apps**  
+💻 Interested in **web development** & building **web apps**  
 💚 Big fan of shades of green — they keep me inspired 🍃  
 😴 Sometimes a bit lazy, but always motivated to learn  
 🤸‍♂️ Flexible and open to new challenges  
