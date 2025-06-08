@@ -1,4 +1,4 @@
-<img src="banner_github.jpg" alt="GitHub Banner" width="100%" />
+<img src="banner.jpg" alt="Build Debug Repeat" width="100%" />
 
 # Hello World!, I'm Lucky, Nice to Meet You! 👋🏼:
 
