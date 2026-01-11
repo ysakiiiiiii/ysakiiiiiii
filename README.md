@@ -1,11 +1,8 @@
 <img src="banner.jpg" alt="Build Debug Repeat" width="100%" />
 
-# Hello World!, I'm Lucky, Nice to Meet You! 👋🏼:
+# Hello World!
 
-👋 Hi, I’m a **Computer Science student**  
-💻 Interested in **web development** & building **web apps**  
-💚 Big fan of shades of green — they keep me inspired 🍃  
-😴 Sometimes a bit lazy, but always motivated to learn  
+👋 I’m a **.NET DEVELOPER**  
 🤸‍♂️ Flexible and open to new challenges  
 🚀 Ready for coding adventures and growth!
 
